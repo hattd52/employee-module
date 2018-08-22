@@ -16,8 +16,8 @@
   ],
   "support": {
     "email": "support@asgardcms.com",
-    "issues": "https://github.com/AsgardCms/Dashboard/issues",
-    "source": "https://github.com/AsgardCms/Dashboard"
+    "issues": "https://github.com/hattd52/employee-module/issues",
+    "source": "https://github.com/hattd52/employee-module"
   },
   "require": {
     "php": ">=5.4",
