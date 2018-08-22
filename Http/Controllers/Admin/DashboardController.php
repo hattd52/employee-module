@@ -1,4 +1,4 @@
-<?php namespace Modules\Dashboard\Http\Controllers\Admin;
+<?php namespace Modules\EmployeeDemo\Http\Controllers\Admin;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Response;
@@ -7,7 +7,7 @@ use Modules\Core\Http\Controllers\Admin\AdminBaseController;
 use Modules\Dashboard\Repositories\WidgetRepository;
 use Pingpong\Modules\Repository;
 
-class DashboardController extends AdminBaseController
+class EmployeeDemoController extends AdminBaseController
 {
     /**
      * @var WidgetRepository
