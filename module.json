@@ -1,0 +1,15 @@
+{
+    "name": "EmployeeDemo",
+    "alias": "employee_demo",
+    "description": "The module responsible for the admin dashboard page.",
+    "keywords": [],
+    "version": "1.0.0",
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\EmployeeDemo\\Providers\\DashboardServiceProvider",
+        "Modules\\EmployeeDemo\\Providers\\RouteServiceProvider",
+        "Modules\\EmployeeDemo\\Providers\\WidgetServiceProvider"
+    ],
+    "files": []
+}
